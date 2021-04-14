@@ -6,13 +6,21 @@ AstroZ uses re-usable spaceships and your job is to optimize the flight of those
 
 ## Development Checklist
 
-- [ ] Calculus programatically in Swift.
-- [ ] Swift UI and SpriteKit - Aesthetic rocket, graphs, visualizations, and animation.
-- [ ] Optimize parameters to make sure the rocket works.
+- [ ] Verify eligibility to work at AstroZ
+- [ ] Animation transitioning you to the Spacelon team
+- [ ] Mission of Spacelon team - Learn the physics behind launching rockets
+- [ ] Simple concepts in theory with animated graphs
+- [ ] Once the user is finished with those, a simple rocket launch test.
+
+** Rocket Launch Test ? ** 
+
+- [ ] Success screen, "Launch rocket button", thematic launch. 
+- [ ] Failure screen, "Launch rocket button", thematic crash.
 
 Optional :
 
-Once the rocket is built, 
+Once the playground is built, 
 
+- [ ] Simulation for the rocket that looks slick.
 - [ ] ARKit to see the rocket fly?
 
