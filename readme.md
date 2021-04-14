@@ -12,7 +12,7 @@ AstroZ uses re-usable spaceships and your job is to optimize the flight of those
 - [ ] Simple concepts in theory with animated graphs
 - [ ] Once the user is finished with those, a simple rocket launch test.
 
-** Rocket Launch Test ? ** 
+*Rocket Launch Test ?* 
 
 - [ ] Success screen, "Launch rocket button", thematic launch. 
 - [ ] Failure screen, "Launch rocket button", thematic crash.
