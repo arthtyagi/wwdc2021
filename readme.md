@@ -17,10 +17,10 @@ AstroZ uses re-usable spaceships and your job is to optimize the flight of those
 - [ ] Success screen, "Launch rocket button", thematic launch. 
 - [ ] Failure screen, "Launch rocket button", thematic crash.
 
-Optional :
+### Timeline
 
-Once the playground is built, 
-
-- [ ] Simulation for the rocket that looks slick.
-- [ ] ARKit to see the rocket fly?
+- 15th April : Finish animated graphs milestone.
+- 16th April : Write a test and conditionals
+- 17th April : Thematic Launch+Crash 
+- 18th April : Submit!
 
